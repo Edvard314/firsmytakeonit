@@ -3,14 +3,14 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 133
 id: 21
 layout:
 - - - -1
 name: cobber mine
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
+probabilityInGame: 4
+probabilityMapGen: 6
 prospectChance: 75
 tiles: []
 type: primary
